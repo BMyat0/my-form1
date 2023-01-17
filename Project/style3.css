@@ -1,0 +1,19 @@
+a{
+    text-decoration: none;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    margin: 20px;
+    color: rgb(123, 0, 255);
+}
+nav{ 
+    background-color: rgb(234, 255, 2);
+    height: 40px;
+    padding-top: 15px;
+}
+Body{
+    background-color: #1f1e33;
+}
+h2{
+    color:blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
